@@ -88,7 +88,7 @@ Responsável por:
 1. **Clone o repositório**
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/GiovanniBranco/BankMore.git
 ```
 
 2. **Inicie o Docker Desktop**
